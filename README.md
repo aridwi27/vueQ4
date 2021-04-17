@@ -8,6 +8,7 @@ filterBrown() = Find all items with brown color.<br />
 
 
 # Skill Test
-[Vue Q2](https://github.com/aridwi27/VueQ2)
-[Vue Q3](https://github.com/aridwi27/VueQ3)
-[Vue Q4](https://github.com/aridwi27/vueQ4)
+[Vue Q2](https://github.com/aridwi27/VueQ2)<br />
+[Vue Q3](https://github.com/aridwi27/VueQ3)<br />
+[Vue Q4](https://github.com/aridwi27/vueQ4)<br />
+[Vue Q6](https://github.com/aridwi27/VueQ6/tree/master)<br />
